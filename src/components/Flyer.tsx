@@ -13,7 +13,7 @@ export function Flyer({name}:FlyerProps){
             </div>
             <div className="w-full flex flex-row justify-end">
                 <div className="flex flex-col justify-center items-cente rounded-3xl bg-opacity-70 mr-8 text-right font-semibold text-xl text-[#fff]">
-                    <span className="text-black font-shadows-into-light">
+                    <span className="text-[#fff] font-shadows-into-light">
                         Com carinho, {name}
                     </span>
                 </div>
